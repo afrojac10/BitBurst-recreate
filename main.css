@@ -51,21 +51,25 @@ h2{
     background-image: url("./Images/light-ball.png");
     background-color: #383838;
     border-radius: 15px;
-    padding: 50px 30px 210px 30px;
+    padding: 75px 30px 210px 30px;
     margin: 30px 55px;
-    background-position:left 33px bottom -30px;
-    background-size: 220px;
+    background-position:left -17px bottom -40px;
+    background-size: 300px;
     background-repeat: no-repeat;
 }
 
 .mobileEmpTxt{
     text-align: left;
-    font-size: 14.5px;
-
+    font-size: 16px;
+    position: relative;
+    bottom: 59px;
 }
 
 .mobileEmp{
-    font-size: 35px;;
+    font-size: 40px;
+    color:rgb(241, 182, 70);
+    position: relative;
+    bottom: 58px;
 }
 
 .rounded div{
