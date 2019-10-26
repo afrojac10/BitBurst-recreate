@@ -1,0 +1,106 @@
+@font-face{
+    font-family: 'PTSans';
+    src: url("./PTSans Narrow/PTN57F-webfont.woff")
+}
+
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #121212;
+    color:#fff;
+    font-family: 'PTSans';
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+    
+}
+
+section{
+    text-align: center;
+}
+
+h2{
+    padding-left:50px;
+    margin-bottom: -17px;
+}
+
+.logo1{
+    width:40px;
+}
+
+.header{
+    display:flex;
+    justify-content: space-evenly;
+    margin: 20px 0;
+}
+
+.servicesLogo{
+    width:150px;
+}
+
+.container1{
+    border: 1px solid #383838;
+    height: 180px;
+    background-image: url("./Images/light-ball.png");
+    background-color: #383838;
+    border-radius: 15px;
+    padding: 50px 30px 210px 30px;
+    margin: 30px 55px;
+    background-position:left 33px bottom -30px;
+    background-size: 220px;
+    background-repeat: no-repeat;
+}
+
+.mobileEmpTxt{
+    text-align: left;
+    font-size: 14.5px;
+
+}
+
+.mobileEmp{
+    font-size: 35px;;
+}
+
+.rounded div{
+    border: 1px solid #383838;
+    background-color: #383838;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 30px 50px;
+}
+
+.servicesLogo{
+    background-color: #111111;
+    border:1px solid #383838;
+    padding: 15px 30px;
+    border-radius: 15px;
+}
+
+.me{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+
+
+footer{
+    text-align: center;
+    background-color: #383838;
+    border: 1px solid #383838;
+    padding: 3px;
+    border-radius: 15px 15px 0 0;
+    margin: 0 50px;
+    font-size: 13px;
+    word-spacing: 1px;
+}
+
+.footer{
+    padding: 10px;
+}
