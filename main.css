@@ -89,7 +89,8 @@ h2{
 
 .me{
     display: flex;
-    justify-content:space-evenly;
+    justify-content:space-between;
+    flex-direction: row;
 }
 
 
