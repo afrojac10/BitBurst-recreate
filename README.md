@@ -4,4 +4,8 @@ Still working on site and will write full documentation when finished, if you ca
 
 Site will have some customization from  original
 
-Original Url: BitBurst.net
+For some undocumented reasons this app creation and documentation has been suspended
+
+URL: https://afrojac10.github.io/BitBurst-recreate/
+
+Original Url: https://BitBurst.net
